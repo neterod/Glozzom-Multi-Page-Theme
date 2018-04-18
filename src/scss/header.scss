@@ -1,3 +1,5 @@
+$icon-size:55px;
+$dark-overlay:rgba(0,0,0,0.7);
 .navbar{
     .nav-link{
         font-size:14px;
@@ -28,4 +30,18 @@
 .carousel-image-3 {
     background:url('../images/image3.jpg');
         background-size:cover;
+}
+
+.fa{
+    font-size:$icon-size;
+}
+
+#home-heading{
+    position:relative;
+    min-height:200px;
+    background:url('../images/lights.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    text-align:center;
+    color:#fff;
 }

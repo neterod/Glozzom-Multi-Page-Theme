@@ -394,6 +394,18 @@ img[src$=".svg"] {
   background: url("../images/image3.jpg");
   background-size: cover; }
 
+.fa {
+  font-size: 55px; }
+
+#home-heading {
+  position: relative;
+  min-height: 200px;
+  background: url("../images/lights.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff; }
+
 .jumbotron-home-1 {
   background-image: url(../images/PIA20357-1920x1200.jpg); }
 
