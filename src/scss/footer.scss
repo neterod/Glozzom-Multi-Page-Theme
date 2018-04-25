@@ -28,3 +28,18 @@
     background-color: black;
     color: white;
 }
+
+#page-header{
+    height:200px;
+    background:url(../images/PIA17563-1920x1200.jpg);
+    background-position: 0 -360px;
+    color:#fff;
+    border-bottom:1px #eee solid;
+    padding-top: 50px;
+}
+
+#about{
+    img{
+        margin-top:-50px;
+    }
+}
